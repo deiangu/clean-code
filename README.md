@@ -89,3 +89,10 @@ _____________________________________
 4. Needless Complexity.
 5. Needless Repetition.
 6. Opacity. The code is hard to understand.
+
+# Code smells
+Code smells are coding patterns/structures that are straight forward and easy to write,
+but make code hard to understand/modify. Accumulating code smells can make adding even
+the simplest of features into a painful, dificult and long ordeal.
+
+[A catalog of common "code smells"](https://luzkan.github.io/smells/).
